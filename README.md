@@ -8,7 +8,13 @@
   - Third attempt:
   - 4th atteempt:
   
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - First attempt: 30:19:52 (25-4-2022)
+  - Second attempt:
+  - Third attempt:
+  - 4th atteempt:
+  
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - First attempt:
   - Second attempt:
   - Third attempt:
