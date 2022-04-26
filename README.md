@@ -20,7 +20,13 @@
   - Third attempt:
   - 4th atteempt:
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - First attempt: 10:12:12 (26-4-2022)
+  - Second attempt:
+  - Third attempt:
+  - 4th atteempt:
+
+- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
