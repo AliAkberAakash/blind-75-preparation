@@ -14,8 +14,14 @@
   - Third attempt:
   - 4th atteempt:
   
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-  - First attempt:
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - First attempt: 29:26:20 (26-4-2022)
+  - Second attempt:
+  - Third attempt:
+  - 4th atteempt:
+
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - First attempt: 
   - Second attempt:
   - Third attempt:
   - 4th atteempt:
