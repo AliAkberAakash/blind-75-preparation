@@ -27,7 +27,7 @@
   - Fourth attempt:
 
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-  - First attempt: 8:23:20
+  - First attempt: 8:23:20 (26-4-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
