@@ -26,7 +26,13 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - First attempt: 8:23:20
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
