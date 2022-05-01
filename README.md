@@ -50,8 +50,8 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-  - First attempt: 
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - First attempt: 13:40:08 (1-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
