@@ -62,8 +62,14 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-  - First attempt: 
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+  - First attempt: 30:18:43 (2-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - First attempt: 5:06:19
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
