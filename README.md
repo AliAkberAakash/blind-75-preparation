@@ -38,10 +38,34 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
+  - First attempt: 11:36:54 (1-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
 
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - First attempt: 
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - First attempt: 
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+  - First attempt: 
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+## Week 2 (2-4-2022 - 8-4-2022)
