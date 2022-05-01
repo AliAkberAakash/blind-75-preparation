@@ -56,8 +56,8 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-  - First attempt: 
+- [x] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - First attempt: 15:13:31 (1-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
