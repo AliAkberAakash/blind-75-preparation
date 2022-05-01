@@ -32,8 +32,16 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+  - First attempt: 5:24:43 (1-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
+
