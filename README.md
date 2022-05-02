@@ -82,8 +82,8 @@
   - Third attempt
   - Fourth attempt:
 
-- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-  - First attempt: 03:33:04 (2-5-2022)
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - First attempt: 05:15:49 (2-5-2022)
   - Second attempt:
   - Third attempt
   - Fourth attempt:
