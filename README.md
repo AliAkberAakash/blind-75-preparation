@@ -27,13 +27,13 @@
   - Fourth attempt:
 
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-  - First attempt: 8:23:20 (26-4-2022)
+  - First attempt: 08:23:20 (26-4-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
 
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-  - First attempt: 5:24:43 (1-5-2022)
+  - First attempt: 05:24:43 (1-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
@@ -69,7 +69,7 @@
   - Fourth attempt:
 
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-  - First attempt: 5:06:19
+  - First attempt: 05:06:19 (2-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
@@ -77,7 +77,13 @@
 ## Week 2 (2-4-2022 - 8-4-2022)
 
 - [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-  - First attempt: 19:56:43
+  - First attempt: 19:56:43 (2-5-2022)
+  - Second attempt:
+  - Third attempt
+  - Fourth attempt:
+
+- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - First attempt: 03:33:04 (2-5-2022)
   - Second attempt:
   - Third attempt
   - Fourth attempt:
