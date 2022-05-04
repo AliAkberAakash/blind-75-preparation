@@ -100,7 +100,7 @@
   - Third attempt:
   - Fourth attempt:
 
-- [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
