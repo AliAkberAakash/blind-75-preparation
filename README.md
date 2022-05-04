@@ -113,8 +113,8 @@
   - Fourth attempt:
 
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  - First attempt: 
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - First attempt: 43:!2:34 (5-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
