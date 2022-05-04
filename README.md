@@ -100,7 +100,20 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - First attempt: 07:55:04 (4-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+  - First attempt: 
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+
+- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - First attempt: 
   - Second attempt:
   - Third attempt:
