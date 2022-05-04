@@ -85,11 +85,27 @@
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - First attempt: 03:33:01 (2-5-2022)
   - Second attempt:
-  - Third attempt
+  - Third attempt:
   - Fourth attempt:
 
 - [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
   - First attempt: 05:15:49 (2-5-2022)
   - Second attempt:
-  - Third attempt
+  - Third attempt:
   - Fourth attempt:
+
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - First attempt: 30:37:25 (4-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+- [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - First attempt: 
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
+
+
+
