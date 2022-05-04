@@ -106,8 +106,8 @@
   - Third attempt:
   - Fourth attempt:
 
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-  - First attempt: 
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+  - First attempt: 59:32:17 (4-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
