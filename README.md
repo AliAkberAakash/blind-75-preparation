@@ -112,12 +112,18 @@
   - Third attempt:
   - Fourth attempt:
 
-
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  - First attempt: 43:!2:34 (5-5-2022)
+  - First attempt: 43:12:34 (5-5-2022)
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
+
+- [x] [Add Binary](https://leetcode.com/problems/add-binary/)
+  - First attempt: 25:51:06 (5-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
 
 
 
