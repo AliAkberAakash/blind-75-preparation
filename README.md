@@ -23,5 +23,4 @@ Kotlin had been my most favourite language for a long time. I used it in Android
 There are no Dart code yet in this repo as leetcode doesn't support Dart yet. But this is my primarry language for Flutter developemnt. 
 I might use it to solve a few problems.
 
-I'm looking for a job with relocation or fuly remote!
-Reach me in (LinkedIn)[https://www.linkedin.com/in/ali-akber-247820139/]
+I'm looking for a job with relocation or fuly remote! Reach me in [LinkedIn](https://www.linkedin.com/in/ali-akber-247820139/)
