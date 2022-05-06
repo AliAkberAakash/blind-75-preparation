@@ -14,7 +14,7 @@ Languages used:
 I am currently learning Go. Problems that require pointers or simple loop/if-else logic I do them with Go.
 
 ### C++
-I have a good amount of experience with C++.  So whenever I need to use the stl library (stack,queue,string etc) I use C++
+I have a good amount of experience with solving problems in C++.  So whenever I need to use the stl library (stack,queue,string etc) I use C++
 
 ### Kotlin
 Kotlin had been my most favourite language for a long time. I used it in Android development. If a problem requires OOP concepts I use Kotlin.
