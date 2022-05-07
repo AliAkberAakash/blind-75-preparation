@@ -124,7 +124,11 @@
   - Third attempt:
   - Fourth attempt:
 
-
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+  - First attempt: 37:07:11 (7-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
 
 
 
