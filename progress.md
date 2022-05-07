@@ -74,7 +74,7 @@
   - Third attempt:
   - Fourth attempt:
 
-## Week 2 (2-4-2022 - 8-4-2022)
+## Week 2 (2-5-2022 - 8-5-2022)
 
 - [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
   - First attempt: 19:56:43 (2-5-2022)
@@ -141,4 +141,13 @@
   - Second attempt:
   - Third attempt:
   - Fourth attempt:
+
+## Week 3 (8-5-2022 - 14-5-2022)
+
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+  - First attempt: 02:46:56 (7-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
 
