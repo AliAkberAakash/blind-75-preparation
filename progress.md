@@ -136,5 +136,9 @@
   - Third attempt:
   - Fourth attempt:
 
-
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - First attempt: 02:46:56 (7-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
 
