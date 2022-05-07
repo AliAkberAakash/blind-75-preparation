@@ -130,5 +130,11 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - First attempt: 5:25:90 (7-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
 
 
