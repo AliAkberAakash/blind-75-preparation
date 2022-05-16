@@ -156,4 +156,9 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - First attempt: 74:46 (16-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
 
