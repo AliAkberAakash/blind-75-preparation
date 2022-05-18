@@ -162,3 +162,9 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  - First attempt: 68:46 (19-5-2022)
+  - Second attempt:
+  - Third attempt:
+  - Fourth attempt:
+
