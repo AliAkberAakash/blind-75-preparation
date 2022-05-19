@@ -168,3 +168,9 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - First attempt: 35:33 (19-5-2022)
+  - Second attempt: 
+  - Third attempt:
+  - Fourth attempt:
+
