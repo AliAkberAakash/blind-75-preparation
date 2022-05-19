@@ -20,7 +20,6 @@ I have a good amount of experience with solving problems in C++.  So whenever I 
 Kotlin had been my most favourite language for a long time. I used it in Android development. If a problem requires OOP concepts I use Kotlin.
 
 ### Dart
-There are no Dart code yet in this repo as leetcode doesn't support Dart yet. But this is my primarry language for Flutter developemnt. 
-I might use it to solve a few problems.
+There are very few problems with Dart in this repo as leetcode does not support it yet. But Dart is my primary language at my job, so I'll try to solve problems with dart too.
 
 # I'm looking for a job with relocation or fully remote! Reach me out in [LinkedIn](https://www.linkedin.com/in/ali-akber-247820139/)
