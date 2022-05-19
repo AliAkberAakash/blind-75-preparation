@@ -4,7 +4,7 @@
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
   - First attempt: 39:37 (25-4-2022)
-  - Second attempt:
+  - Second attempt: 10:27 (19-5-2022)
   - Third attempt:
   - Fourth attempt:
   
