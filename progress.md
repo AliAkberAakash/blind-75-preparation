@@ -174,3 +174,9 @@
   - Third attempt:
   - Fourth attempt:
 
+- [x] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+  - First attempt: 33:07 (25-5-2022)
+  - Second attempt: 
+  - Third attempt:
+  - Fourth attempt:
+
